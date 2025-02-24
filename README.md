@@ -30,3 +30,12 @@ Konuları ile ilgili çalışmalar yer almaktadır.
 * datetime Kütüphanesi: datetime kütüphanesini kullanarak tarih ve saat bilgilerini almayı ve bu bilgileri formatlamayı.
 * Yaş Hesaplama: Kullanıcının doğum tarihine göre yaşını hesaplayan bir program yazmayı.
 ---
+## Yazar
+---
+Bu Python eğitimi, Eyyüp Toprak tarafından yazılmış ve paylaşılmıştır.
+### İletişim
+
+[eyup.tp@hotmail.com](mailto:eyup.tp@hotmail.com)
+---
+## Lisans
+[Apache 2.0 License](https://github.com/apache/.github/blob/main/LICENSE)
