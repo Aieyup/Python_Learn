@@ -30,6 +30,29 @@ Konuları ile ilgili çalışmalar yer almaktadır.
 * datetime Kütüphanesi: datetime kütüphanesini kullanarak tarih ve saat bilgilerini almayı ve bu bilgileri formatlamayı.
 * Yaş Hesaplama: Kullanıcının doğum tarihine göre yaşını hesaplayan bir program yazmayı.
 ---
+
+# Çalışma 05:
+
+---
+* Kaçış Dizileri (Escape Sequences):
+  * Kaçış dizilerinin ne olduğu ve nasıl kullanıldığı.
+  * Örnekler: \\n, \\t, \\', \\\", Python_Learn, vb.
+  * Kaçış dizilerinin özel karakterlerle nasıl kullanıldığı.
+* String Manipülasyonu:
+  * String içinde tek tırnak (') ve çift tırnak (") kullanımı.
+  * Kaçış dizileri ile string içinde özel karakterlerin kullanımı.
+* Hata Ayıklama ve Uyarılar:
+  * Syntax hataları ve uyarılarla karşılaşıldığında nasıl düzeltileceği.
+  * Örnek: SyntaxWarning: invalid escape sequence.
+* print Fonksiyonu ve sep Argümanı:
+  * print fonksiyonunun kullanımı.
+  * sep argümanının kullanımı ve kaçış dizileri ile birlikte kullanımı.
+* random Kütüphanesi:
+  * random kütüphanesinin kullanımı ve fonksiyonları.
+  * Rastgele sayı, karakter seçimi ve belirli aralıkta rastgele sayı üretimi.
+  * randint, randrange, choice gibi fonksiyonların kullanımı.
+---
+
 ## Yazar
 ---
 Bu Python eğitimi, Eyyüp Toprak tarafından yazılmış ve paylaşılmıştır.
