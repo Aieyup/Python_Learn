@@ -53,6 +53,27 @@ Konuları ile ilgili çalışmalar yer almaktadır.
   * randint, randrange, choice gibi fonksiyonların kullanımı.
 ---
 
+# Çalışma 06:
+
+---
+* Temel Python Programlama:
+  * print fonksiyonu ile ekrana yazı yazdırma.
+  * input fonksiyonu ile kullanıcıdan veri alma.
+  * Değişken tanımlama ve kullanma.
+  * Temel veri tipleri (string, float, int).
+* Koşullu İfadeler:
+  * if, elif, else kullanarak koşullu ifadeler oluşturma.
+  * Mantıksal operatörler (==, <=, >=, !=).
+* Basit Hesap Makinesi Uygulaması:
+  * Toplama, çıkarma, çarpma ve bölme işlemlerini gerçekleştirme.
+  * Kullanıcıdan alınan verilere göre işlem yapma.
+* Python ile Uygulama Paketleme:
+  * cx_Freeze kullanarak Python dosyasını çalıştırılabilir bir dosyaya dönüştürme.
+  * cx_Freeze.setup fonksiyonunu kullanarak uygulama bilgilerini tanımlama.
+
+---
+
+
 ## Yazar
 ---
 Bu Python eğitimi, Eyyüp Toprak tarafından yazılmış ve paylaşılmıştır.
