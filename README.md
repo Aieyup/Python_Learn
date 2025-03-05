@@ -75,7 +75,7 @@ Konuları ile ilgili çalışmalar yer almaktadır.
 # Çalışma 07:
 ---
 * Temel Python Programlama:
- * Pythonda girintileme sistemi ve bu sistemin temel mantığı üzerine durulmuştur.
+  * Pythonda girintileme sistemi ve bu sistemin temel mantığı üzerine durulmuştur.
 ---
 
 ## Yazar
